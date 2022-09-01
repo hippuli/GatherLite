@@ -1,12 +1,24 @@
-lightweight tag e25311052149df5301a7de9ab39a4916588d3689 5.1.1
+lightweight tag ded9ca73dd4efc7d121dab65dbde66b19d65b828 6.0.0
 Author:	Wuild <wuildz@gmail.com>
-Date:	Tue Jun 7 01:12:59 2022 +0200
+Date:	Wed Aug 31 12:33:36 2022 +0200
 
-commit e25311052149df5301a7de9ab39a4916588d3689
+commit ded9ca73dd4efc7d121dab65dbde66b19d65b828
 Author: Wuild <wuildz@gmail.com>
-Date:   Tue Jun 7 01:12:59 2022 +0200
+Date:   Wed Aug 31 12:33:36 2022 +0200
 
-    5.1.1
+    6.0.0
     
-    * Removed debugging prints
+    Added northrend map data
+
+commit a99add3fac0fec4fbbf8fd6289aa0669b1d7205d
+Author: Wuild <wuildz@gmail.com>
+Date:   Mon Aug 29 12:06:11 2022 +0200
+
+    version bump
+
+commit 5a332e8b426330081e18fe5629f6407b623b95ae
+Author: Wuild <wuildz@gmail.com>
+Date:   Mon Aug 29 11:13:42 2022 +0200
+
+    Fixed instance ID on TBC zones.
 
