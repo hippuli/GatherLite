@@ -1,10 +1,12 @@
-lightweight tag 60f20b43d488f2caa7673f94886f22e090bae40d 6.0.1
+lightweight tag 15253764b98159f0c9743f12f966b6462a1e2ec6 6.0.2
 Author:	Wuild <wuildz@gmail.com>
-Date:	Sat Sep 3 04:45:12 2022 +0200
+Date:	Wed Sep 28 00:47:39 2022 +0200
 
-commit 60f20b43d488f2caa7673f94886f22e090bae40d
+commit 15253764b98159f0c9743f12f966b6462a1e2ec6
 Author: Wuild <wuildz@gmail.com>
-Date:   Sat Sep 3 04:45:12 2022 +0200
+Date:   Wed Sep 28 00:47:39 2022 +0200
 
-    Update node database
+    6.0.2
+    
+    Fixed northrend nodes not showing up on the minimap
 
