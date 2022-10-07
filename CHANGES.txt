@@ -1,12 +1,21 @@
-lightweight tag 15253764b98159f0c9743f12f966b6462a1e2ec6 6.0.2
+lightweight tag 8e7187cd1374ca9dc31006e6a7bde6805fe05652 6.0.3
 Author:	Wuild <wuildz@gmail.com>
-Date:	Wed Sep 28 00:47:39 2022 +0200
+Date:	Thu Oct 6 07:51:30 2022 +0200
 
-commit 15253764b98159f0c9743f12f966b6462a1e2ec6
+commit 8e7187cd1374ca9dc31006e6a7bde6805fe05652
 Author: Wuild <wuildz@gmail.com>
-Date:   Wed Sep 28 00:47:39 2022 +0200
+Date:   Thu Oct 6 07:51:30 2022 +0200
 
-    6.0.2
+    Moved debug message
+
+commit 497c8767445fbb309359baee6776874fa47a509d
+Author: Wuild <wuildz@gmail.com>
+Date:   Thu Oct 6 07:47:50 2022 +0200
+
+    Titanium nodes
     
-    Fixed northrend nodes not showing up on the minimap
+    * Added Titanum nodes
+    * Moved the quick toggle world map button
+    * Updated node positions database
+    * Added WOTLK fishing nodes
 
