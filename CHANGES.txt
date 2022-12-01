@@ -1,21 +1,15 @@
-lightweight tag 8e7187cd1374ca9dc31006e6a7bde6805fe05652 6.0.3
+lightweight tag 334040296058502c7200cb4287f94e03362d66cc 6.0.4
 Author:	Wuild <wuildz@gmail.com>
-Date:	Thu Oct 6 07:51:30 2022 +0200
+Date:	Mon Nov 28 06:25:45 2022 +0100
 
-commit 8e7187cd1374ca9dc31006e6a7bde6805fe05652
+commit 334040296058502c7200cb4287f94e03362d66cc
 Author: Wuild <wuildz@gmail.com>
-Date:   Thu Oct 6 07:51:30 2022 +0200
+Date:   Mon Nov 28 06:25:45 2022 +0100
 
-    Moved debug message
-
-commit 497c8767445fbb309359baee6776874fa47a509d
-Author: Wuild <wuildz@gmail.com>
-Date:   Thu Oct 6 07:47:50 2022 +0200
-
-    Titanium nodes
+    6.0.4
     
-    * Added Titanum nodes
-    * Moved the quick toggle world map button
-    * Updated node positions database
-    * Added WOTLK fishing nodes
+    * Updated the database
+    * Added more api function to enable other addons to use the nodes data
+    * Added node clusters (Nodes close to eachother will now use the same tooltip)
+    * More optimizations for faster loading and less memory usage when in use
 
