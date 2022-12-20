@@ -1,15 +1,12 @@
-lightweight tag 334040296058502c7200cb4287f94e03362d66cc 6.0.4
+lightweight tag 5589a2b093080c1f87664dc35d30b66783cf658d 6.0.6
 Author:	Wuild <wuildz@gmail.com>
-Date:	Mon Nov 28 06:25:45 2022 +0100
+Date:	Wed Dec 14 15:41:30 2022 +0100
 
-commit 334040296058502c7200cb4287f94e03362d66cc
+commit 5589a2b093080c1f87664dc35d30b66783cf658d
 Author: Wuild <wuildz@gmail.com>
-Date:   Mon Nov 28 06:25:45 2022 +0100
+Date:   Wed Dec 14 15:41:30 2022 +0100
 
-    6.0.4
+    6.0.6
     
-    * Updated the database
-    * Added more api function to enable other addons to use the nodes data
-    * Added node clusters (Nodes close to eachother will now use the same tooltip)
-    * More optimizations for faster loading and less memory usage when in use
+    * Added table filter function back, thank you @mks-mud
 
