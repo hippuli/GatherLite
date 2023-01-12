@@ -1,12 +1,10 @@
-lightweight tag 5589a2b093080c1f87664dc35d30b66783cf658d 6.0.6
+lightweight tag 92e225544b88136278dcac53f62207377bac9a62 6.0.7
 Author:	Wuild <wuildz@gmail.com>
-Date:	Wed Dec 14 15:41:30 2022 +0100
+Date:	Fri Dec 30 00:41:45 2022 +0100
 
-commit 5589a2b093080c1f87664dc35d30b66783cf658d
+commit 92e225544b88136278dcac53f62207377bac9a62
 Author: Wuild <wuildz@gmail.com>
-Date:   Wed Dec 14 15:41:30 2022 +0100
+Date:   Fri Dec 30 00:41:45 2022 +0100
 
-    6.0.6
-    
-    * Added table filter function back, thank you @mks-mud
+    updated correct gathering levels.
 
