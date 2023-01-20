@@ -1,10 +1,12 @@
-lightweight tag 92e225544b88136278dcac53f62207377bac9a62 6.0.7
+lightweight tag 46466141e2afacb78c0426b9cb5bf4167066d872 6.0.8
 Author:	Wuild <wuildz@gmail.com>
-Date:	Fri Dec 30 00:41:45 2022 +0100
+Date:	Wed Jan 18 18:49:41 2023 +0100
 
-commit 92e225544b88136278dcac53f62207377bac9a62
+commit 46466141e2afacb78c0426b9cb5bf4167066d872
 Author: Wuild <wuildz@gmail.com>
-Date:   Fri Dec 30 00:41:45 2022 +0100
+Date:   Wed Jan 18 18:49:41 2023 +0100
 
-    updated correct gathering levels.
+    ace3 upgrade
+    
+    * Updated ace3
 
