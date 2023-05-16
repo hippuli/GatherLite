@@ -97,7 +97,7 @@ function GatherLite.ModifyTooltip()
         elseif skillname == GatherLite:translate("herbalism") then
             objname = _G['GameTooltipTextLeft' .. (i - 1)]:GetText()
             req = GatherLite:GetRequiredLevel(objname)
-        elseif not skillname then
+        elseif not skillname and i > 1 then
             objname = _G['GameTooltipTextLeft' .. (i - 1)]:GetText()
             object = GatherLite:GetObject(objname)
 
